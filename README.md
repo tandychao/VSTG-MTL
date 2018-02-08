@@ -1,6 +1,6 @@
 ## Variable Selection and Task Grouping for Multi-Task Learning (VSTG-MTL)
- Jun-Yong Jeong and Chi-Hyuck Jun
-
+Codes for the following paper:
+  
 ## Dependencies
 VSTG_MTL_logistic requires the following toolbox:
 - minFunc(Makr Schmidit, 2005, http://www.cs.ubc.ca/~schmidtm/Software/minFunc.html)
