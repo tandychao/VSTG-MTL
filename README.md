@@ -10,7 +10,7 @@ some codes are based on MALSAR (Zhouu et al., 2011, https://github.com/jiayuzhou
 and ksupport-normm toolbox (Blaschko, 2013, https://github.com/blaschko/ksupport) 
 
 ## USAGe
-Please see demo.m 
+Please run demo.m 
 
 ## License
 the GNU General Public License v3.0
