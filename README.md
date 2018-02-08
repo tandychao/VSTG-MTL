@@ -9,7 +9,7 @@ VSTG_MTL_logistic requires the following toolbox:
 some codes are based on MALSAR (Zhouu et al., 2011, https://github.com/jiayuzhou/MALSAR)
 and ksupport-normm toolbox (Blaschko, 2013, https://github.com/blaschko/ksupport) 
 
-## USAGe
+## USAGE
 Please run demo.m 
 
 ## License
