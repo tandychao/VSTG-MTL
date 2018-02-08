@@ -6,13 +6,13 @@ VSTG_MTL_logistic requires the following toolbox:
 - minFunc(Makr Schmidit, 2005, http://www.cs.ubc.ca/~schmidtm/Software/minFunc.html)
 
 ## Acknowledgements
-some codes are based on MALSAR (Zhouu et al., 2011, https://github.com/jiayuzhou/MALSAR)
+Some codes are from MALSAR (Zhouu et al., 2011, https://github.com/jiayuzhou/MALSAR)
 and ksupport-normm toolbox (Blaschko, 2013, https://github.com/blaschko/ksupport) 
 
 ## USAGE
 Please run demo.m 
 
 ## License
-the GNU General Public License v3.0
+The GNU General Public License v3.0
 
 
