@@ -1,5 +1,6 @@
 ## Variable Selection and Task Grouping for Multi-Task Learning (VSTG-MTL)
 Codes for the following paper:
+  Jun-Yong Jeong and Chi-Hyuck Jun (2018), Variable Selection and Task Grouping for Multi-task learning (submitted to KDD 2018) 
   
 ## Dependencies
 VSTG_MTL_logistic requires the following toolbox:
