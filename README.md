@@ -3,7 +3,8 @@ Codes for the following paper:
   Jun-Yong Jeong and Chi-Hyuck Jun (2018), Variable Selection and Task Grouping for Multi-task learning (https://arxiv.org/abs/1802.04676)   (submitted to KDD 2018) 
   
 ## Dependencies
-VSTG_MTL_logistic requires the following toolbox:
+VSTG_MTL requires the following toolbox:
+- MALSAR (Jiayu, et al., 2011, http://jiayuzhou.github.io/MALSAR/)
 - minFunc(Makr Schmidit, 2005, http://www.cs.ubc.ca/~schmidtm/Software/minFunc.html)
 
 ## Acknowledgements
