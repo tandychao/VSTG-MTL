@@ -17,3 +17,5 @@ Please run demo.m
 The GNU General Public License v3.0
 
 
+## Version
+Matlab 2017a (tested on Window 10)
